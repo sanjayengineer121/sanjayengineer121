@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on Youtube [HotClub Status]
-🌱 I’m currently learning DAA and PYTHON
+##🔭 I’m currently working on Youtube [HotClub Status]
+##🌱 I’m currently learning DAA and PYTHON
 <!--
 **sanjayengineer121/sanjayengineer121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
