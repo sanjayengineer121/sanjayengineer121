@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on Youtube [HotClub Status]
 ### 🌱 I’m currently learning DAA and PYTHON
 - 📫 How to reach me: ...
--  <a href="https://facebook.com/EnsowtNoida/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png"></a>
+-  <a href="https://facebook.com/EnsowtNoida/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png" height="180px" width="180px"></a>
 -  <a href="https://programminghubintern.blogspot.com/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png"></a>
 ###  🤔 MY BLOG URL https://programminghubintern.blogspot.com/
 ###  🤔 MY INSTA ID @engineer_Sanjay
