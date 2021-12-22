@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 <br>
 ------------------------------------------------------------<h1>PROJECTS</h1><br>
-<a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px"></a>
+<a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
 
 
 <tr><th colspan="2"> My Dashboard </th></tr>
