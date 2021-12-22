@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/sanjayengineer121/HACKTHEBOX
+<a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px"></a>
+
+
 <tr><th colspan="2"> My Dashboard </th></tr>
 <tr><td>
 
