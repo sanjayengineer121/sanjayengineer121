@@ -26,7 +26,7 @@ https://github.com/sanjayengineer121/HACKTHEBOX
 <tr><th colspan="2"> My Dashboard </th></tr>
 <tr><td>
 
-|1|[Nibbles](nibbles.pdf)  | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
+|1|[Nibbles](nibbles.pdf)  | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> <a href="https://github.com/sanjayengineer121/HACKTHEBOX"> Hack the bok </a>|:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |2|[Poison](poison.pdf)   | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |3|[Celestial](celestial.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |4|[Jerry](jerry.pdf)    | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
