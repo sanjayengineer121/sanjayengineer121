@@ -6,9 +6,10 @@
 -  <a href="https://facebook.com/EnsowtNoida/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png" height="64px" width="64px"></a>
 -  <a href="https://programminghubintern.blogspot.com/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" height="64px" width="64px"></a>
 -  <a href="https://www.instagram.com/engineer_Sanjay/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" height="64px" width="64px"></a>
+-  <a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></a>
 
 
-###  🤔 MY LINKEDIN PROFILE https://in.linkedin.com/in/ersanjay19
+
 ###  🤔 MY BLOG URL https://crazeofcyber.blogspot.com/
 ###  👯 I’m looking to collaborate on 17th january
 ###  👯 sanjay.yadav@ensowt.com
