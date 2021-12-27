@@ -13,7 +13,7 @@
     <th><a href="I’m looking to collaborate on 17th january/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/864/864837.png" height="64px" width="64px"></a></th>
 <th><a href="sanjay.yadav@ensowt.com" target="_blank"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="64px" width="64px"></a></th>
   </tr>
- 
+ </table>
 -  
 - 
 -  
