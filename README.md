@@ -57,7 +57,7 @@ Chrome Notes remembers your notes and mode, even after closing chrome or restart
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">Chrome Notes Extension</a></td>
+    <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">MGplayer (Python Music Player)</a></td>
     <td>
      MGPLAYER is Simple Music Player which is Created by Python and Some Advance Features which is very useful to All Music Lovers...
 Base 3 themes (Clearly White),
