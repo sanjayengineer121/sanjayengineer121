@@ -11,7 +11,7 @@
        <th><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></a></th>
     <th><a href="https://crazeofcyber.blogspot.com/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" height="64px" width="64px"></a></th>
     <th><a href="I’m looking to collaborate on 17th january/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/864/864837.png" height="64px" width="64px"></a></th>
-
+<th><a href="sanjay.yadav@ensowt.com" target="_blank"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="64px" width="64px"></a></th>
   </tr>
  
 -  
@@ -20,7 +20,7 @@
 -  
 -  
 -  
--  <a href="sanjay.yadav@ensowt.com" target="_blank"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="64px" width="64px"></a>
+-  
 
 
  
