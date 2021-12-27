@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 ------------------------------------------------------------<h1>PROJECTS</h1><br>
 <a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
 
+<a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">Chrome Notes Extension</a>
 
-<tr><th colspan="2"> My Dashboard </th></tr>
-<tr><td>
 
-|1|[Nibbles](nibbles.pdf)  | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> <a href="https://github.com/sanjayengineer121/HACKTHEBOX"> Hack the bok </a>|:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
+
 
