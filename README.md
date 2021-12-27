@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 -->
 <br>
 ------------------------------------------------------------<h1>PROJECTS</h1><br>
-<a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
 
 <a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">Chrome Notes Extension</a>
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Porjects</th>
+    <th>Explation</th>
+    <th>Developer</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td><a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
+</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
