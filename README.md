@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I AM WORKING WITH Software support engineer at ENSOWT
-### 🔭 I’m currently working on Youtube [HotClub Status]
 ### 🌱 I’m currently learning DAA and PYTHON
 - 📫 How to reach me: ...
 -  <a href="https://facebook.com/EnsowtNoida/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png" height="64px" width="64px"></a>
