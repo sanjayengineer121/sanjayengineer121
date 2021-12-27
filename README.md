@@ -58,19 +58,14 @@ Chrome Notes remembers your notes and mode, even after closing chrome or restart
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">Chrome Notes Extension</a></td>
-    <td>Base 3 themes (Clearly White)
-Chromecast support
-Driving Mode
-Headset/Bluetooth support
-Music duration filter
-Folder support - Play songs by folder
-Gapless playback
-Volume controls
-Carousel effect for album covers
-Home screen widgets
-Lock screen playback
-Sleep music
-Chrome Notes remembers your notes and mode, even after closing chrome or restarting your computer!</td>
+    <td>
+     MGPLAYER is Simple Music Player which is Created by Python and Some Advance Features which is very useful to All Music Lovers...
+Base 3 themes (Clearly White),
+Driving Mode,
+Headset/Bluetooth support,
+Music duration filter,
+Folder support - Play songs by folder,
+Many More</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
   </tr>
 </table>
