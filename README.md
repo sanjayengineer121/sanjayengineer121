@@ -57,13 +57,19 @@ Chrome Notes remembers your notes and mode, even after closing chrome or restart
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">Chrome Notes Extension</a></td>
-    <td>Notes is a notetaking app developed by Apple. It is provided on their iOS and macOS operating systems, the latter starting with OS X 10.8 Mountain Lion. It functions as a service for making short text notes,
-A simple notepad extension for Google Chrome A simple notes extension, right in your chrome browser! Easily copy around a few words to and from different chrome windows and other apps.
-
-Ad-free
-Works offline
-Very small (less than 0.1mb)
+    <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">Chrome Notes Extension</a></td>
+    <td>Base 3 themes (Clearly White)
+Chromecast support
+Driving Mode
+Headset/Bluetooth support
+Music duration filter
+Folder support - Play songs by folder
+Gapless playback
+Volume controls
+Carousel effect for album covers
+Home screen widgets
+Lock screen playback
+Sleep music
 Chrome Notes remembers your notes and mode, even after closing chrome or restarting your computer!</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
   </tr>
