@@ -41,7 +41,8 @@ Here are some ideas to get you started:
   <tr>
     <td><a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
 </td>
-    <td>Maria Anders</td>
+    <td>Important notes about password protection
+Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges, endgames, fortresses and retired machines (that machine write-ups don't need password). For endgames or fortresses, the password should be all the flags concatenated.</td>
     <td>Germany</td>
   </tr>
   <tr>
