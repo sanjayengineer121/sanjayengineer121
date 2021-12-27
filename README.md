@@ -44,7 +44,6 @@ Here are some ideas to get you started:
     <td>Important notes about password protection
 Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges, endgames, fortresses and retired machines (that machine write-ups don't need password). For endgames or fortresses, the password should be all the flags concatenated.</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></a>
--  <a href="https://crazeofcyber.blogspot.com/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" height="64px" width="64px"></a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
