@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </td>
     <td>Important notes about password protection
 Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges, endgames, fortresses and retired machines (that machine write-ups don't need password). For endgames or fortresses, the password should be all the flags concatenated.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></a>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></a>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">Chrome Notes Extension</a></td>
@@ -77,7 +77,7 @@ Headset/Bluetooth support,
 Music duration filter,
 Folder support - Play songs by folder,
 Many More</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Cisco_pocket_tracer" target="_blank"> <img src="https://camo.githubusercontent.com/11ad891ee10b44131affb8ec98d53dba33b3ba4d9987574ee6e5b18063545231/68747470733a2f2f7374656d636c6f7564732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f6e6574776f726b696e672d636973636f2d7061636b65742d7472616365722e706e67" height="64px" width="64px">CISCO PACKET TRACER</td>
@@ -87,12 +87,12 @@ Many More</td>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://github.com/sanjayengineer121/Jokes-Extensionn/blob/main/logo.png" height="64px" width="64px">Jokes Extensionn</td>
       <td>joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every Time.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Jokes Extensionn</td>
     <td>Python is a high-level and general-purpose programming language. As this definition implies, you can use Python for several purposes, from web development to data science, machine learning, and robotics. Python's real-world use cases are limitless@@</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
 </table>
 
