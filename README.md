@@ -65,7 +65,7 @@ Ad-free
 Works offline
 Very small (less than 0.1mb)
 Chrome Notes remembers your notes and mode, even after closing chrome or restarting your computer!</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">MGplayer (Python Music Player)</a></td>
@@ -82,7 +82,7 @@ Many More</td>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Cisco_pocket_tracer" target="_blank"> <img src="https://camo.githubusercontent.com/11ad891ee10b44131affb8ec98d53dba33b3ba4d9987574ee6e5b18063545231/68747470733a2f2f7374656d636c6f7564732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f6e6574776f726b696e672d636973636f2d7061636b65742d7472616365722e706e67" height="64px" width="64px">CISCO PACKET TRACER</td>
       <td>Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://github.com/sanjayengineer121/Jokes-Extensionn/blob/main/logo.png" height="64px" width="64px">Jokes Extensionn</td>
