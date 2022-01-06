@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-------------------------------------------------------------<h1 align="center">PROJECTS</h1><br>
+<h1 align="center">PROJECTS</h1><br>
 
 
 
