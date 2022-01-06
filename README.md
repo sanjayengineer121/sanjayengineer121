@@ -89,6 +89,11 @@ Many More</td>
       <td>joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every Time.</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
   </tr>  
+  <tr>
+    <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Jokes Extensionn</td>
+      <td>joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every Time.</td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64px" width="64px"></td>
+  </tr>  
 </table>
 
 
