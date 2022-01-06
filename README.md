@@ -90,7 +90,7 @@ Many More</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Jokes Extensionn</td>
+    <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Python Basics Projects</td>
     <td>Python is a high-level and general-purpose programming language. As this definition implies, you can use Python for several purposes, from web development to data science, machine learning, and robotics. Python's real-world use cases are limitless@@</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
