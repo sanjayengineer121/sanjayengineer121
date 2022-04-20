@@ -100,7 +100,7 @@ Many More</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
      <tr>
-    <td><a href="https://github.com/sanjayengineer121/Whatsapp-Qr-Code-Generator-Flask" target="_blank"> <img src="https://www.qrcode-monkey.com/img/default-preview-qr.svg" height="64px" width="64px">Billing-Message-API</td>
+    <td><a href="https://github.com/sanjayengineer121/Whatsapp-Qr-Code-Generator-Flask" target="_blank"> <img src="https://www.qrcode-monkey.com/img/default-preview-qr.svg" height="64px" width="64px">Whatsapp-Qr-Code-Generator-Flask</td>
     <td>Set QR Content Select a content type at the top for your QR code (URL, Text, Email...). After selecting your type you will see all available options. Enter all fields that should appear when scanni…@ </td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
