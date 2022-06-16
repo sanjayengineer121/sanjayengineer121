@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I AM WORKING WITH Software support engineer at ENSOWT
+### I AM WORKING WITH Software engineer at ENSOWT
 ### 🌱 I’m currently learning DAA and PYTHON
 - 📫 How to reach me: ...
 
