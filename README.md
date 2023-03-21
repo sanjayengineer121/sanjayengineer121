@@ -1,6 +1,28 @@
+<h1 align="center">Hi 👋, I'm Sanjay Kumar Yadav</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayengineer121&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayengineer121" /> </p>
+
+<p align="left"> <a href="https://twitter.com/engineerstechy" target="blank"><img src="https://img.shields.io/twitter/follow/engineerstechy?logo=twitter&style=for-the-badge" alt="engineerstechy" /></a> </p>
+
+- 🔭 I’m currently working on [Daily Ac Management](https://github.com/sanjayengineer121/Daily_Ac_report)
+
+- 🌱 I’m currently learning **Advance Python,ML**
+
+- 👯 I’m looking to collaborate on [Billing Api Service with Flask](https://github.com/sanjayengineer121/BILLING_API)
+
+- 👨‍💻 All of my projects are available at [https://sanjayengineer121.github.io/](https://sanjayengineer121.github.io/)
+
+- 📝 I regularly write articles on [https://programminghubintern.blogspot.com/](https://programminghubintern.blogspot.com/)
+
+- 💬 Ask me about **Python,Python GUI(Tkinter,customtkinter,Tkinter boostrap),Flask**
+
+- 📫 How to reach me **sanjayyadav11210@gmail.com**
+
+- 📄 Know about my experiences [https://sanjayengineer121.github.io/resume/resume.pdf](https://sanjayengineer121.github.io/resume/resume.pdf)
+
 ### Hi there 👋
-### I AM WORKING WITH Software engineer at ENSOWT
-### 🌱 I’m currently learning DAA and PYTHON
+### I AM WORKING WITH Software Engineer at ENSOWT
 - 📫 How to reach me: ...
 
 
@@ -10,7 +32,11 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sanjayyadav114) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HotClubstatus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creative_edits17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersanjay19) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://programminghubintern.blogspot.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/engineerstechy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@er.creation) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sanjayyadav114) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HotClubstatus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creative_edits17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersanjay19) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://programminghubintern.blogspot.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/engineerstechy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@er.creation)
+<br>
+<a href="https://www.youtube.com/c/er.creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er.creation" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/k1632_11602079_b37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="k1632_11602079_b37" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/cybersecuritytutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cybersecuritytutorials" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
