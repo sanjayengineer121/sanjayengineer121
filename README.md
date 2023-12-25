@@ -215,8 +215,52 @@ Many More</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Cisco_pocket_tracer" target="_blank"> <img src="https://camo.githubusercontent.com/11ad891ee10b44131affb8ec98d53dba33b3ba4d9987574ee6e5b18063545231/68747470733a2f2f7374656d636c6f7564732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f6e6574776f726b696e672d636973636f2d7061636b65742d7472616365722e706e67" height="64px" width="64px">CISCO PACKET TRACER</td>
-      <td>Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface.</td>
+    <td><a href="https://github.com/sanjayengineer121/Ai_Generated_Card" target="_blank"> <img src="https://i.postimg.cc/brtpDY43/ankur-anamika.jpg" height="64px" width="64px">Ai_Generated_Card</td>
+      <td># Ai_Generated_Card
+This could refer to a specialized hardware accelerator designed to speed up artificial intelligence (AI) and machine learning (ML) workloads. Examples include NVIDIA GPUs for deep learning.
+<h1>Sample of Generated Card</h1>
+
+</head>
+<body>
+  <div class="tm-container">
+    <div class="tm-row">
+      <!-- Site Header -->
+      <div class="tm-left">
+        <div class="tm-left-inner">
+          <div class="tm-site-header">
+            <i class="fas fa-coffee fa-3x tm-site-logo"></i>
+            <h1 class="tm-site-name">AI Card</h1>
+          </div>
+          <nav class="tm-site-nav">
+            <ul class="tm-site-nav-ul">
+              <li class="tm-page-nav-item">
+                <a href="#drink" class="tm-page-link active">
+                  <i class="fas fa-mug-hot tm-page-link-icon"></i>
+                  <span>BASIC</span>
+                </a>
+              </li>
+              <li class="tm-page-nav-item">
+                <a href="#about" class="tm-page-link">
+                  <i class="fas fa-users tm-page-link-icon"></i>
+                  <span>About Us</span>
+                </a>
+              </li>
+              <li class="tm-page-nav-item">
+                <a href="#special" class="tm-page-link">
+                  <i class="fas fa-glass-martini tm-page-link-icon"></i>
+                  <span>Special</span>
+                </a>
+              </li>
+              <li class="tm-page-nav-item">
+                <a href="#contact" class="tm-page-link">
+                  <i class="fas fa-comments tm-page-link-icon"></i>
+                  <span>Contact</span>
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>        
+      </div>.</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
   <tr>
