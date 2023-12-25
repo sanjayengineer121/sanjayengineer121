@@ -60,7 +60,7 @@
     <th>Developer</th>
   </tr>
    <tr>
-    <td><a href="https://github.com/sanjayengineer121/EnterpriseLoyality" target="_blank"> <img src="https://github.com/sanjayengineer121/EnterpriseLoyality/blob/main/images/11669104_20943720.svg" height="64px" width="64px">Enterprise Loyality</td>
+    <td><a href="https://github.com/sanjayengineer121/EnterpriseLoyality" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kundenkarten.JPG/800px-Kundenkarten.JPG" height="64px" width="64px">Enterprise Loyality</td>
     <td># Loyalty Programs: Building Lasting Customer Relationships
 
 A loyalty program is a strategic marketing initiative designed to encourage customers to consistently choose a business for their purchases or services. The primary objective is to reward and incentivize loyal customers for their repeat business. Loyalty programs are widely adopted across various industries, such as retail, hospitality, airlines, and online services. Here are key features and benefits associated with loyalty programs:
