@@ -60,7 +60,7 @@
     <th>Developer</th>
   </tr>
    <tr>
-    <td><a href="https://github.com/sanjayengineer121/EnterpriseLoyality" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kundenkarten.JPG/800px-Kundenkarten.JPG" height="64px" width="64px">Enterprise Loyality</td>
+    <td><a href="https://github.com/sanjayengineer121/EnterpriseLoyality" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kundenkarten.JPG/800px-Kundenkarten.JPG" height="64px" width="64px"><br>Enterprise Loyality</td>
     <td># Loyalty Programs: Building Lasting Customer Relationships
 
 A loyalty program is a strategic marketing initiative designed to encourage customers to consistently choose a business for their purchases or services. The primary objective is to reward and incentivize loyal customers for their repeat business. Loyalty programs are widely adopted across various industries, such as retail, hospitality, airlines, and online services. Here are key features and benefits associated with loyalty programs:
@@ -126,7 +126,7 @@ In conclusion, loyalty programs are integral components of a business's strategy
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
      <tr>
-    <td><a href="https://github.com/sanjayengineer121/Daily_Ac_report" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Winkin%27_9_-_Boekhoudsoftware.png" height="64px" width="64px">Daily a/c Report
+    <td><a href="https://github.com/sanjayengineer121/Daily_Ac_report" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Winkin%27_9_-_Boekhoudsoftware.png" height="64px" width="64px"><br>Daily a/c Report
 </td>
     <td># Accounting Report Software
 
