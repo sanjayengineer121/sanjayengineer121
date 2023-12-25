@@ -259,7 +259,7 @@ This could refer to a specialized hardware accelerator designed to speed up arti
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Python Basics Projects</td>
+    <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="64px" width="64px">Python Basics Projects</td>
     <td>Python is a high-level and general-purpose programming language. As this definition implies, you can use Python for several purposes, from web development to data science, machine learning, and robotics. Python's real-world use cases are limitless@@</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
