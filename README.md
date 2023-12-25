@@ -203,17 +203,7 @@ Chrome Notes remembers your notes and mode, even after closing chrome or restart
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">MGplayer (Python Music Player)</a></td>
-    <td>
-     MGPLAYER is Simple Music Player which is Created by Python and Some Advance Features which is very useful to All Music Lovers...
-Base 3 themes (Clearly White),
-Driving Mode,
-Headset/Bluetooth support,
-Music duration filter,
-Folder support - Play songs by folder,
-Many More</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
-  </tr>
+   
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Ai_Generated_Card" target="_blank"> <img src="https://i.postimg.cc/brtpDY43/ankur-anamika.jpg" height="64px" width="64px">Ai_Generated_Card</td>
       <td># Ai_Generated_Card
