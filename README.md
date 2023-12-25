@@ -123,7 +123,7 @@ A loyalty program is a strategic marketing initiative designed to encourage cust
 
 In conclusion, loyalty programs are integral components of a business's strategy for customer retention and brand growth. The structure and features of loyalty programs may vary based on industry dynamics and business objectives.
 . </td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
      <tr>
     <td><a href="https://github.com/sanjayengineer121/Daily_Ac_report" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Winkin%27_9_-_Boekhoudsoftware.png" height="64px" width="64px">Daily a/c Report
@@ -182,14 +182,14 @@ Accounting report software is a crucial tool for businesses to manage their fina
 
 In conclusion, accounting report software contributes to streamlined financial processes, enhanced accuracy, and valuable insights for informed decision-making across businesses of varying sizes.
  </td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/HACKTHEBOX" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" height="48px" width="48px">HACK THE BOX</a>
 </td>
     <td>Important notes about password protection
 Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges, endgames, fortresses and retired machines (that machine write-ups don't need password). For endgames or fortresses, the password should be all the flags concatenated.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></a>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></a>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://i.postimg.cc/g04NbvtP/notes.png" height="48px" width="48px">Chrome Notes Extension</a></td>
@@ -200,7 +200,7 @@ Ad-free
 Works offline
 Very small (less than 0.1mb)
 Chrome Notes remembers your notes and mode, even after closing chrome or restarting your computer!</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/MGPLAYER" target="_blank"><img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png" height="48px" width="48px">MGplayer (Python Music Player)</a></td>
@@ -212,7 +212,7 @@ Headset/Bluetooth support,
 Music duration filter,
 Folder support - Play songs by folder,
 Many More</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Ai_Generated_Card" target="_blank"> <img src="https://i.postimg.cc/brtpDY43/ankur-anamika.jpg" height="64px" width="64px">Ai_Generated_Card</td>
@@ -261,17 +261,17 @@ This could refer to a specialized hardware accelerator designed to speed up arti
           </nav>
         </div>        
       </div>.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://i.postimg.cc/nLh0ppRW/logo.png" height="64px" width="64px">Jokes Extensionn</td>
+    <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://github.com/sanjayengineer121/Jokes-Extensionn/blob/main/logo.png" height="64px" width="64px">Jokes Extensionn</td>
       <td>joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every Time.</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>  
   <tr>
     <td><a href="https://github.com/sanjayengineer121/Python-Projects" target="_blank"> <img src="https://github.com/sanjayengineer121/Python-Projects/blob/master/4518857_python_icon.png" height="64px" width="64px">Python Basics Projects</td>
     <td>Python is a high-level and general-purpose programming language. As this definition implies, you can use Python for several purposes, from web development to data science, machine learning, and robotics. Python's real-world use cases are limitless@@</td>
-    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
+    <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQHgtQNbO5RqxA/profile-displayphoto-shrink_200_200/0/1634559240368?e=1709164800&v=beta&t=S7unnGznEslEEY8zLpA4LIQxRyfmL2tSZmolENiTtWo" height="64px" width="64px"></td>
   </tr>
  
 </table>
