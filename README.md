@@ -264,7 +264,7 @@ This could refer to a specialized hardware accelerator designed to speed up arti
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://github.com/sanjayengineer121/Jokes-Extensionn/blob/main/logo.png" height="64px" width="64px">Jokes Extensionn</td>
+    <td><a href="https://github.com/sanjayengineer121/Jokes-Extensionn" target="_blank"> <img src="https://i.postimg.cc/nLh0ppRW/logo.png" height="64px" width="64px">Jokes Extensionn</td>
       <td>joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every Time.</td>
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>  
