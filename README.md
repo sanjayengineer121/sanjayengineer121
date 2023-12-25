@@ -192,7 +192,7 @@ Machines writeups until 2020 March are protected with the corresponding root fla
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></a>
   </tr>
   <tr>
-    <td><a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">Chrome Notes Extension</a></td>
+    <td><a href="https://github.com/sanjayengineer121/Notes-Extension" target="_blank"><img src="https://i.postimg.cc/g04NbvtP/notes.png" height="48px" width="48px">Chrome Notes Extension</a></td>
     <td>Notes is a notetaking app developed by Apple. It is provided on their iOS and macOS operating systems, the latter starting with OS X 10.8 Mountain Lion. It functions as a service for making short text notes,
 A simple notepad extension for Google Chrome A simple notes extension, right in your chrome browser! Easily copy around a few words to and from different chrome windows and other apps.
 
