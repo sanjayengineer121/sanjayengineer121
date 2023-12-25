@@ -126,7 +126,7 @@ In conclusion, loyalty programs are integral components of a business's strategy
     <td><a href="https://in.linkedin.com/in/ersanjay19/" target="_blank"><img src="https://github.com/sanjayengineer121/basicvideoplayerUI/blob/main/ing-modified.png" height="64px" width="64px"></td>
   </tr>
      <tr>
-    <td><a href="https://github.com/sanjayengineer121/Daily_Ac_report" target="_blank"> <img src="https://www.qrcode-monkey.com/img/default-preview-qr.svg" height="64px" width="64px">Daily a/c Report
+    <td><a href="https://github.com/sanjayengineer121/Daily_Ac_report" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Winkin%27_9_-_Boekhoudsoftware.png" height="64px" width="64px">Daily a/c Report
 </td>
     <td># Accounting Report Software
 
