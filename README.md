@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Daily Ac Management](https://github.com/sanjayengineer121/Daily_Ac_report)
+- 🔭 I’m currently working on More features And Advancement [Daily Ac Management](https://github.com/sanjayengineer121/Daily_Ac_report)
 - 🔭 I’ve worked [Enterprise Loyality](https://github.com/sanjayengineer121/EnterpriseLoyality)
 
 - 🌱 I’m currently learning **Advance Python,ML**
